@@ -1,1 +1,2 @@
-# course_1
+# My first online course
+This is vibhavan's first github project
